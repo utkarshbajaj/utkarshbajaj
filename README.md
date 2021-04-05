@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Utkarsh Bajaj, a third year student at Manipal Institute of Technology, Manipal studying computer science with an interest in iOS, Python development and Competitive Programming. 
 
