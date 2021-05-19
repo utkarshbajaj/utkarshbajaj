@@ -10,4 +10,4 @@ I'm a third year student at Manipal Institute of Technology, Manipal studying co
 - 👯 I’m looking to collaborate with Android App Developers!
 - 💬 Ask me about anything
 - 📫 Reach me at ubajaj99@gmail.com or <a href='https://www.linkedin.com/in/utkarsh-bajaj-23bb82125/'>LinkedIn<href>
-- 📝 [Resume](https://drive.google.com/file/d/1-QS0HYPHDFESpfvzI426xRXcG_erQ76L/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/14tsQd1NCdxoxqgfCfFTquKzxEjX-EwV4/view?usp=sharing)
