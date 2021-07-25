@@ -5,9 +5,8 @@
 I'm a third year student at Manipal Institute of Technology, Manipal studying computer science with an interest in iOS, Python development and Competitive Programming. 
 
 
-- 🔭 I’m currently working on Python   
-- 🌱 I’m currently learning Competitive Programming, Django
-- 👯 I’m looking to collaborate with Android App Developers!
+- 🔭 I’m currently working on Python Development
+- 🌱 I’m currently learning Competitive Programming
 - 💬 Ask me about anything
 - 📫 Reach me at ubajaj99@gmail.com or <a href='https://www.linkedin.com/in/utkarsh-bajaj-23bb82125/'>LinkedIn<href>
-- 📝 [Resume](https://drive.google.com/file/d/14tsQd1NCdxoxqgfCfFTquKzxEjX-EwV4/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/154ppDZ3oviWpuedZ0H1DymAjQk5OHrf0/view?usp=sharing)
